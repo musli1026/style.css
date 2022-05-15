@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #FA8072;
+    color:white ;
+}
+h1{
+    color:navy;
+    text-align: center;
+}
+footer{
+    background-color:darkcyan;
+    color: white;
+}
+footer p{
+    background-color:darkblue;
+}
+nav a{
+    background-color: royalblue;
+    text-decoration: none;
+    border:1px solid royalblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 50px;
+    color:white;
+}
+nav{
+    margin: 20px;
+}
